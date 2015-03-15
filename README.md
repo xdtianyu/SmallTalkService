@@ -1,5 +1,5 @@
 # SmallTalkService
-SmallTalkService is a web interface for SmallTalk
+SmallTalkService is a web interface for SmallTalk, it's still under development.
 
 ###Develop Dependence
 
